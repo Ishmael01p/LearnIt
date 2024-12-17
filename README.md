@@ -1,2 +1,2 @@
 # LearnIt
-Given a request of how to learn xyz the website will return a learning path on how to achieve any goal, using Open AI API 
+One of the hardest parts about learning something new is knowing where to start, LearnIt will be a web application decicated to creating easy pathways to help users accomplish any goal through!
